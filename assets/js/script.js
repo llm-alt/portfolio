@@ -18,7 +18,7 @@ const meusProjetos = [
         ]
     },
     {
-        titulo: "Projeto 02 - Portfólio com React",
+        titulo: "Projeto 02 - Portfólio com React + Vite",
         descricao: "Portfólio desenvolvido em React com componentes reutilizáveis, navegação moderna e interface responsiva.",
         categoria: "React",
         links: [
