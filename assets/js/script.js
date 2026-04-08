@@ -9,7 +9,7 @@ const meusProjetos = [
         links: [
             {
                 label: "Ver projeto",
-                url: "https://lio-sudo.github.io/meu-portifolio-html-css-js/#projetos"
+                url: "https://llm-alt.github.io/portfolio/"
             },
             {
                 label: "Ver repositório",
