@@ -24,11 +24,11 @@ const meusProjetos = [
         links: [
             {
                 label: "Ver projeto",
-                url: "https://lio-sudo.github.io/portfolio-com-react/"
+                url: "https://portfolio-react-dusky-five.vercel.app"
             },
             {
                 label: "Ver repositório",
-                url: "https://github.com/lio-sudo/portfolio-com-react"
+                url: "https://github.com/llm-alt/portfolio-react"
             }
         ]
     }
