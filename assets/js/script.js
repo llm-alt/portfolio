@@ -13,7 +13,7 @@ const meusProjetos = [
             },
             {
                 label: "Ver repositório",
-                url: "https://github.com/lio-sudo/meu-portifolio-html-css-js"
+                url: "https://github.com/llm-alt/portfolio"
             }
         ]
     },
